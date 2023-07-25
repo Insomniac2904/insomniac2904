@@ -1,4 +1,4 @@
-<center>### Hi there 👋 I'm Adarsh</center>
+<centerHi there 👋 I'm Adarsh<center>
 <hr>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Insomniac2904)](https://github.com/ryo-ma/github-profile-trophy)
 
