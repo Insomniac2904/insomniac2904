@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Crypto Dashboard**
 
-- 💬 Ask me about **react, backend, cryptography,encryption**
+- 💬 Ask me about **react, backend, cryptography, encryption**
 
 - 📫 How to reach me **adarshkr2904@gmail.com**
 
