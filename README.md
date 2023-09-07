@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react, backend, cryptography, encryption**
 
-- 📫 How to reach me **adarshkr2904@gmail.com**
+- 📫 How to reach me **adarshkr2902@gmail.com**
 
 - ⚡ Fun fact **I love Cofffeeeeeeee!**
 
